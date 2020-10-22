@@ -1,0 +1,9 @@
+A HEN HAS MANY CHICKS
+Base64 Encode: QSBIRU4gSEFTIE1BTlkgQ0hJQ0tT
+
+A HEN  HAS  MANY   CHICKS
+Base64 Encode: QSBIRU4gIEhBUyAgTUFOWSAgIENISUNLUw==
+
+THE WORLD
+Base64 Encode: VEhFIFdPUkxE  << Capital
+VGhlIFdvcmxk << LowerCase
